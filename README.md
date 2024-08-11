@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gr0n
 - 👀 I’m interested in video games
-- 🌱 I’m currently learning unity
+- 🌱 I’m currently learning godot
 - 📫 How to reach me: you don't
 
 <!---
